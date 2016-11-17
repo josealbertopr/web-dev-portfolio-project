@@ -7,3 +7,55 @@ section h3 {
   font-size: 24px;
   font-weight: 600;
 }
+
+header {
+  background-color: red;
+  text-align: center;
+  height: 120px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+header h1 {
+  color: white;
+  margin: 0;
+}
+
+header nav {
+  padding-top: 20px;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+footer {
+  background-color: red;
+  text-align: center;
+  height: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+footer nav ul li {
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 15px;
+}
